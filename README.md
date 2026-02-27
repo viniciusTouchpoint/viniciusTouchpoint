@@ -30,13 +30,14 @@ When I'm not wrestling with the Metro Bundler or debugging hooks, you'll probabl
 
 ### ⚡ Fun Facts
 * **Status:** Version 4.1 (Stable release, still receiving updates).
-* **Fuel:** Coffee, Distortion Pedals, and Clean Code.
+* **Fuel:** Coffee, Gym, Distortion Pedals, and Clean Code.
 * **Current Mission:** Building seamless mobile apps at **Touchpoint**.
 
 ---
 
-### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-silveira-moraes-68242784)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinivetetos)
 
 ---
 
