@@ -15,6 +15,7 @@ I'm a **React Native Developer** based in Brazil, originally from Jaguarão, RS.
 * 📟 **Motherboard:** ASUS TUF Gaming B550M-PLUS
 * 🧠 **Memory:** 16GB DDR4 RAM
 * 🗄️ **Storage:** 1TB Kingston NV2 M.2 NVMe
+* 🖥️ **Display:** Monitor AOC 27G4/P (27" | 180Hz | 0.5ms)
 
 ---
 
